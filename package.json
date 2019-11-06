@@ -1,0 +1,14 @@
+{
+  "name": "kazadi",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "gh-pages -d dist"
+  },
+  "author": "Kazadi",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}

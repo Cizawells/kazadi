@@ -1,0 +1,113 @@
+@charset "utf-8"
+
+body {
+	background-color: orange;
+	font-family:arial;
+	margin: 0;
+	margin-top: 50px;
+	
+}
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+    background-image: url("1.jpg");
+    font-family: arial;
+}
+/*</style>
+</head>
+<body>
+
+<h1>Hello World!</h1>
+<p>This text is not easy to read on this background image.</p>
+
+</body>*/
+#nav {
+	background-color:blue;
+	width: 100%;
+	height: 60px;
+	line-height: 60px;
+}
+
+#nav h1 {
+	float: left;
+}
+
+#nav h1 a {
+	text-decoration: none;
+	color: white;
+	margin-left: 25px;
+	font-family: Dacing script , cursive;
+}
+
+#nav ul {
+	float: right;
+}
+
+#nav ul li {
+	text-decoration: none;
+	list-style-type: none;
+	display: inline-block;
+	background-color: green;
+}
+
+
+#nav ul li a {
+	text-decoration: none;
+	color: white;
+	padding: 25px;
+	font-family: Open sans , sans-serif;
+
+}
+
+#nav ul li :hover {
+	background: red;
+	transition: all ease-in-out 0.40s;
+}
+
+#hello {
+   background: red;
+} 
+
+#hello1 {
+	background: red;
+	height: 5px;
+	margin-bottom: 5px;
+}
+
+#hello2 {
+	background: url(images/black6.jpg) no-repeat;
+	width: 100%;
+	height:600px;
+}
+#ani marquee
+{
+font-family: verdana;
+font-size: 74px;
+background-color: cyan;
+}
+
+
+
+
+
+
+	
+
+	
+#main {
+	padding: 6rem 3rem 3rem 3rem;
+	width: 70%;
+	margin: 0 auto;
+	/*border: 1px solid black;*/
+	font-family: arial;
+	
+}
+#write {
+	width: 100%;
+}
+/*#main p {
+	width: 50%;
+}*/
